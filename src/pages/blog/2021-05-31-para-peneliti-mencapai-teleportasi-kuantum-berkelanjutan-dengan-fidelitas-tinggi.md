@@ -4,7 +4,7 @@ title: Para peneliti mencapai teleportasi kuantum berkelanjutan dengan fidelitas
   tinggi
 date: 2021-05-31T12:05:16.500Z
 description: >-
-  By University of Chicago
+  Oleh University of Chicago
 
 
   Diterjemahkan dari https://phys.org/news/2020-12-sustained-high-fidelity-quantum-teleportation.html
