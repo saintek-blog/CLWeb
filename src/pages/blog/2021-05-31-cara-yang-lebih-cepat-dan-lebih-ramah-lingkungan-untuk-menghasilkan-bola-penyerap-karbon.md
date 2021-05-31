@@ -3,11 +3,8 @@ templateKey: blog-post
 title: Cara yang lebih cepat dan lebih ramah lingkungan untuk menghasilkan bola
   (penyerap) karbon
 date: 2021-05-31T12:13:57.154Z
-description: >-
-  Oleh Swansea University
-
-
-  Diterjemahkan dari https://phys.org/news/2020-12-faster-greener-carbon-spheres.html
+description: Oleh Swansea University || Sumber asli dari
+  https://phys.org/news/2020-12-faster-greener-carbon-spheres.html
 featuredpost: true
 featuredimage: /img/fastergreene.jpg
 tags:
