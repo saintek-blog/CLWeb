@@ -22,7 +22,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Berita Sains, Teknologi dan Bisnis
+            Latest Stories
           </h1>
         </div>
         <section className="section">
