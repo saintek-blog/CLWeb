@@ -3,11 +3,8 @@ templateKey: blog-post
 title: Para peneliti mencapai teleportasi kuantum berkelanjutan dengan fidelitas
   tinggi
 date: 2021-05-31T12:05:16.500Z
-description: >-
-  Oleh University of Chicago
-
-
-  Diterjemahkan dari https://phys.org/news/2020-12-sustained-high-fidelity-quantum-teleportation.html
+description: Oleh University of Chicago || Sumber asli dari
+  https://phys.org/news/2020-12-sustained-high-fidelity-quantum-teleportation.html
 featuredpost: true
 featuredimage: /img/64-researchersa.jpg
 tags:
