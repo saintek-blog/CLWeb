@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/wp2685758.jpg')`,
           }}
         >
           <h1
@@ -22,7 +22,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Berita Sains, Teknologi dan Bisnis
+            Kabar Berita
           </h1>
         </div>
         <section className="section">
