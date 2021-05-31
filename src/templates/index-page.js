@@ -86,6 +86,7 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
+                <Features gridItems={intro.blurbs} />
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Kabar dan berita terbaru
