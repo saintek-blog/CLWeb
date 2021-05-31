@@ -51,7 +51,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div>{children}</div>
-      <Adsense currentPath={location} />
+      <Adsense currentPath={children} />
       <Footer />
     </div>
   )
