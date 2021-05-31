@@ -2,11 +2,8 @@
 templateKey: blog-post
 title: Ilmuwan semakin meningkatkan akurasi kamera polarimetrik terarah
 date: 2021-05-31T12:10:46.041Z
-description: >-
-  Oleh Zhang Nannan, Chinese Academy of Sciences
-
-
-  Diterjemahkan dari https://phys.org/news/2020-12-scientists-accuracy-polarimetric-camera.html
+description: Oleh Zhang Nannan, Chinese Academy of Sciences || Sumber asli dari
+  https://phys.org/news/2020-12-scientists-accuracy-polarimetric-camera.html
 featuredpost: true
 featuredimage: /img/2-scientistsfu.jpg
 tags:
