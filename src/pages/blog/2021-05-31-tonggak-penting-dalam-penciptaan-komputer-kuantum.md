@@ -9,6 +9,9 @@ description: >-
   Diterjemahkan dari https://phys.org/news/2020-12-important-milestone-creation-quantum.html
 featuredpost: true
 featuredimage: /img/importantmil.jpg
+tags:
+  - Komputer kuantum
+  - Teknologi
 ---
 ![](/img/importantmil.jpg "(a) Memindai citra elektron dari salah satu perangkat kuantum dot yang dibuat oleh Foundry. Empat kuantum dot dapat dibentuk di silikon (abu-abu tua), menggunakan empat kabel kontrol independen (abu-abu terang). Kabel ini adalah kenop kontrol yang memungkinkan apa yang disebut gerbang kuantum. (b) Skema perangkat array dua dimensi. Setiap Qubit (lingkaran merah) dapat berinteraksi dengan tetangga terdekatnya dalam jaringan dua dimensi, dan menghindari Qubit yang gagal karena satu atau lain alasan. Konfigurasi ini adalah apa yang dimaksud dengan “dimensi kedua”. Kredit: Universitas Kopenhagen")
 
