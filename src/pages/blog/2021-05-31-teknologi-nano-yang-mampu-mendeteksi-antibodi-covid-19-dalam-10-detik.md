@@ -2,10 +2,9 @@
 templateKey: blog-post
 title: Teknologi nano yang mampu mendeteksi antibodi COVID-19 dalam 10 detik
 date: 2021-05-31T11:47:16.159Z
-description: |-
-  Oleh Lisa Kulick, Carnegie Mellon University Mechanical Engineering
-
-  Diterjemahkan dari https://phys.org/news/2020-12-covid-antibodies-seconds.html
+description: Oleh Lisa Kulick, Carnegie Mellon University Mechanical Engineering
+  || Sumber asli dari
+  https://phys.org/news/2020-12-covid-antibodies-seconds.html
 featuredpost: true
 featuredimage: /img/bigstock-222061462-1.png
 tags:
