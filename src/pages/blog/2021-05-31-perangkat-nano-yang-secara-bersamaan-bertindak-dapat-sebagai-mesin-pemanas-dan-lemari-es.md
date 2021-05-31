@@ -3,11 +3,8 @@ templateKey: blog-post
 title: Perangkat nano yang secara bersamaan bertindak dapat sebagai mesin
   pemanas dan lemari es
 date: 2021-05-31T11:51:46.872Z
-description: >-
-  Oleh RIKEN
-
-
-  Diterjemahkan dari https://phys.org/news/2020-12-quantum-nanodevice-simultaneously-refrigerator.html
+description: Oleh RIKEN || Sumber asli dari
+  https://phys.org/news/2020-12-quantum-nanodevice-simultaneously-refrigerator.html
 featuredpost: true
 featuredimage: /img/aquantumnano.jpg
 tags:
