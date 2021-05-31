@@ -2,11 +2,8 @@
 templateKey: blog-post
 title: Penemuan mendorong teori bahwa kehidupan di Bumi muncul dari campuran RNA-DNA
 date: 2021-05-31T12:17:17.327Z
-description: >-
-  Oleh The Scripps Research Institute
-
-
-  diterjemahkan dari https://phys.org/news/2020-12-discovery-boosts-theory-life-earth.html
+description: Oleh The Scripps Research Institute || Sumber asli dari
+  https://phys.org/news/2020-12-discovery-boosts-theory-life-earth.html
 featuredpost: true
 featuredimage: /img/rna.jpg
 tags:
