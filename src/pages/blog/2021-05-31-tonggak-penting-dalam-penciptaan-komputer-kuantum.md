@@ -2,11 +2,8 @@
 templateKey: blog-post
 title: Tonggak penting dalam penciptaan komputer kuantum
 date: 2021-05-31T12:01:59.398Z
-description: >-
-  Oleh University of Copenhagen
-
-
-  Diterjemahkan dari https://phys.org/news/2020-12-important-milestone-creation-quantum.html
+description: Oleh University of Copenhagen || Sumber asli dari
+  https://phys.org/news/2020-12-important-milestone-creation-quantum.html
 featuredpost: true
 featuredimage: /img/importantmil.jpg
 tags:
