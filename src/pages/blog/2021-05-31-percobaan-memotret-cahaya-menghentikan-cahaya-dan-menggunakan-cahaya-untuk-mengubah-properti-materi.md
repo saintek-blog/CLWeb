@@ -10,7 +10,7 @@ featuredimage: /img/light.jpg
 tags:
   - Cahaya
   - Elektromagnetisme
-  - Fisika Kuantum
+  - Mekanika Kuantum
   - Kosmologi
   - Optik
   - Teknologi
