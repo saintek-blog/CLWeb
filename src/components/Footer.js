@@ -26,23 +26,33 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Beranda
+                        Home
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/blog">
-                        Kabar terbaru
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Blog Pribadi
+                      <Link className="navbar-item" to="/about">
+                        About
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Profil
+                        Products
                       </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact/examples">
+                        Form Examples
+                      </Link>
+                    </li>
+                    <li>
+                      <a
+                        className="navbar-item"
+                        href="/admin/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Admin
+                      </a>
                     </li>
                   </ul>
                 </section>
@@ -51,13 +61,13 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/about">
-                        Tentang
+                      <Link className="navbar-item" to="/blog">
+                        Latest Stories
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Kirim masukan
+                        Contact
                       </Link>
                     </li>
                   </ul>
@@ -83,6 +93,13 @@ const Footer = class extends React.Component {
                   <img
                     src={instagram}
                     alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="vimeo" href="https://vimeo.com">
+                  <img
+                    src={vimeo}
+                    alt="Vimeo"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
