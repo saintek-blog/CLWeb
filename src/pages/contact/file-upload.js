@@ -46,7 +46,7 @@ export default class Contact extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>File Upload</h1>
+              <h1>Unggah file</h1>
               <form
                 name="file-upload"
                 method="post"
@@ -59,13 +59,13 @@ export default class Contact extends React.Component {
                 <input type="hidden" name="form-name" value="file-upload" />
                 <div hidden>
                   <label>
-                    Don’t fill this out:{' '}
+                    Jangan isi disini:{' '}
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Nama anda
                   </label>
                   <div className="control">
                     <input
@@ -88,14 +88,14 @@ export default class Contact extends React.Component {
                         onChange={this.handleAttachment}
                       />
                       <span className="file-cta">
-                        <span className="file-label">Choose a file…</span>
+                        <span className="file-label">Pilih file…</span>
                       </span>
                     </label>
                   </div>
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Kirim
                   </button>
                 </div>
               </form>
