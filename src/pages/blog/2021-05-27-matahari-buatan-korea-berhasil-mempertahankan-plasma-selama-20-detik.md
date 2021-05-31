@@ -2,11 +2,9 @@
 templateKey: blog-post
 title: Matahari buatan Korea berhasil mempertahankan plasma selama 20 detik
 date: 2021-05-27T06:28:42.093Z
-description: >-
-  Oleh National Research Council of Science & Technology
-
-
-  Sumber asli dari: https://phys.org/news/2020-12-korean-artificial-sun-world-sec-long.html
+description: Oleh National Research Council of Science & Technology || Sumber
+  asli
+  dari: https://phys.org/news/2020-12-korean-artificial-sun-world-sec-long.html
 featuredpost: true
 featuredimage: /img/5fe4cda981327.jpg
 tags:
