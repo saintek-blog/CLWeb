@@ -10,6 +10,11 @@ description: >-
   Diterjemahkan dari https://phys.org/news/2020-12-quantum-nanodevice-simultaneously-refrigerator.html
 featuredpost: true
 featuredimage: /img/aquantumnano.jpg
+tags:
+  - Mekanika kuantum
+  - Nano-teknologi
+  - Sains
+  - Teknologi
 ---
 ![](/img/aquantumnano.jpg "RIKEN researchers have produced a quantum nanodevice that can behave both as an engine and a refrigerator—at the same time. Left: © Martin Steinthaler/Getty; Right: © lilographik/Getty")
 
