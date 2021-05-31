@@ -11,13 +11,9 @@ description: >-
 featuredpost: true
 featuredimage: /img/aquantumnano.jpg
 ---
+![](/img/aquantumnano.jpg "RIKEN researchers have produced a quantum nanodevice that can behave both as an engine and a refrigerator—at the same time. Left: © Martin Steinthaler/Getty; Right: © lilographik/Getty")
 
-
-Mesin nano multiguna
-
-![](/img/aquantumnano.jpg)
-
- yang dapat bertindak sebagai mesin pemanas dan lemari es pada saat yang sama telah dibuat oleh para insinyur RIKEN. Perangkat ini adalah salah satu yang pertama menguji bagaimana efek kuantum (yang mengatur perilaku partikel pada skala terkecil) suatu hari nanti dapat dimanfaatkan untuk meningkatkan kinerja teknologi nano.
+Mesin nano multiguna yang dapat bertindak sebagai mesin pemanas dan lemari es pada saat yang sama telah dibuat oleh para insinyur RIKEN. Perangkat ini adalah salah satu yang pertama menguji bagaimana efek kuantum (yang mengatur perilaku partikel pada skala terkecil) suatu hari nanti dapat dimanfaatkan untuk meningkatkan kinerja teknologi nano.
 
 Pemanas dan lemari es konvensional bekerja dengan menghubungkan dua kolam fluida. Memampatkan satu kolam menyebabkan cairannya memanas, sementara kolam lain yang mengembang dengan cepat mendinginkan cairannya. Jika operasi ini dilakukan dalam siklus periodik, kolam akan bertukar energi dan sistem dapat digunakan sebagai mesin pemanas atau lemari es.
 
