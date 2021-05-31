@@ -19,10 +19,10 @@ const Ad = props => {
             <ins
                 className="adsbygoogle"
                 style={{ display: 'block' }}
-                data-ad-format="fluid"
-     			data-ad-layout="in-article"
-     			data-ad-client="ca-pub-0123456789101112"
-     			data-ad-slot="9876543210"
+                data-ad-client="ca-pub-7540836345366849"
+                data-ad-slot="4521672431"
+                data-ad-format="auto"
+                data-full-width-responsive="true"
             />
         </div>
     )

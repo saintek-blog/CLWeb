@@ -51,6 +51,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div>{children}</div>
+      <script data-ad-client="ca-pub-7540836345366849" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <Adsense currentPath={children} />
       <Footer />
     </div>
