@@ -9,10 +9,11 @@ description: |-
 featuredpost: true
 featuredimage: /img/bigstock-222061462-1.png
 tags:
-  - Mekanika kuantum
+  - Covid-19
   - Nano-teknologi
   - Sains
   - Teknologi
+  - Virus
 ---
 Para peneliti di Universitas Carnegie Mellon melaporkan temuan pada platform biosensing berbasis bahan nano canggih yang mendeteksi, dalam hitungan detik, antibodi khusus untuk SARS-CoV-2, virus yang bertanggung jawab atas pandemi COVID-19. Selain pengujian, platform ini akan membantu mengukur respons imunologis pasien terhadap vaksin baru dengan tepat.
 
