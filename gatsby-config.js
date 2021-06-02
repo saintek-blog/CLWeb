@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'KabarSainTek',
+    title: 'Code Learning',
     description:
-      'Situs edukasi yang menyediakan informasi perkembangan sains, teknologi, dan bisnis.',
+      'Free video courses related to programming, web development and computer science.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

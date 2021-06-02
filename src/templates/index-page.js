@@ -94,7 +94,7 @@ export const IndexPageTemplate = ({
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
-                      See more
+                      See all post
                     </Link>
                   </div>
                 </div>
