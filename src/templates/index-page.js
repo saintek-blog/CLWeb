@@ -89,12 +89,12 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Kabar dan berita terbaru
+                    Recently Post
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
-                      Baca selengkapnya
+                      See more
                     </Link>
                   </div>
                 </div>
