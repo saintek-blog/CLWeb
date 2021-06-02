@@ -1,35 +1,33 @@
 ---
 templateKey: index-page
-title: Selamat datang di KabarSainTek
+title: Welcome to NoobCoder95
 image: /img/wp2685758.jpg
-heading: Kelebihan KabarSainTek
-subheading: Menyediakan informasi perkembangan sains, teknologi, dan bisnis.
+heading: " "
+subheading: The best website to learn programming, web development, and computer science.
 mainpitch:
-  title: Apa itu KabarSainTek?
-  description: KabarSainTek adalah media online yang meliput kabar dan berita
-    terbaru seputar perkembangan sains, teknologi dan bisnis.
-description: KabarSainTek selalu berusaha menyediakan informasi yang berkualitas
-  dan aktual serta berasal dari berbagai sumber paling terpercaya dan kredibel.
+  title: " "
+  description: " "
+description: " "
 intro:
   blurbs:
-    - image: /img/open_science_06.png
-      text: KabarSainTek selalu berusaha menjadi yang terdepan dalam menyajikan kabar
-        dan berita yang berkualitas seputar perkembangan sains.
-    - image: /img/bigstock-222061462-1.png
-      text: Kabar saintek selalu berusaha menyajikan kabar dan berita seputar kemajuan
-        teknologi dan engineering yang semakin hari berkembang semakin pesat.
-    - image: /img/business-3152586_960_720.jpg
-      text: KabarSainTek juga tidak ketinggalan untuk menyajikan berita terbaru
-        mengenai perkembangan bisnis yang terjadi di berbagai Negara di seluruh
-        dunia.
-    - image: /img/trust-blog-image-01.png
-      text: Berita yang dimuat dalam KabarSainTek merupakan berita termutakhir yang
-        disediakan dari berbagai sumber terpercaya dan kredibel yang memberikan
-        informasi seputar perkembangan sains, teknologi dan bisnis.
-  heading: Kategori berita
-  description: KabarSainTek memuat kabar dan berita seputar perkembangan sains,
-    teknologi dan engineering, serta perkembangan bisnis yang terjadi di seluruh
-    belahan dunia.
+    - image: /img/main-qimg-6b7c2be195db97aec7c0a0048b0f2714-c.jpeg
+      text: Start building your dream mobile app and find out how you can learn to
+        code the mobile app you want in less than 30 days with these strategies.
+    - image: /img/desktop-application-development-500x500.jpg
+      text: Find exactly what you want to learn from how-to videos about Desktop Apps,
+        taught by industry experts.
+    - image: /img/machinelearning3.png
+      text: Learn machine learning with this online courses. You will be introduced to
+        ML with scikit-learn, guided through deep learning using TensorFlow 2.0,
+        and then you will have the opportunity to practice what you learn with
+        beginner tutorials.
+    - image: /img/12-websites-you-should-check-out-to-learn-web-development-fast.png
+      text: >
+        Learn all you need to know about web development to improve the
+        performance of your website or app. Give your users the best possible
+        experience, wherever they are!
+  heading: " "
+  description: " "
 main:
   heading: Great coffee with no compromises
   description: >
