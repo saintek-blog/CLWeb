@@ -13,6 +13,7 @@ const TemplateWrapper = ({ children }) => {
     <div>
       <Helmet>
         <html lang="en" />
+        <script data-ad-client="ca-pub-7540836345366849" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <title>{title}</title>
         <meta name="description" content={description} />
         
@@ -67,7 +68,6 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Navbar />
-      <script data-ad-client="ca-pub-7540836345366849" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <div>{children}</div>
       <Adsense currentPath={children} />
       <Footer />
