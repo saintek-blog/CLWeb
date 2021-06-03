@@ -13,7 +13,7 @@ tags:
 ---
 ![](/img/python-basic.png)
 
-*Complete Python Programming From Scratch with Projects — Udemy — Published 3/2021*
+*Complete Python Programming From Scratch with Projects — Udemy — Published 6/2021*
 
 ## Learn from very basics to advanced level like Python GUI, Web Scraping , Pygame etc.
 
@@ -23,9 +23,9 @@ Understanding of the Python Programming Language
 
 **Requirements**
 
-A computer (Windows, Mac, or Linux).
-No prior knowledge of Python is required.
-No previous programming experience needed.
+- A computer (Windows, Mac, or Linux).
+- No prior knowledge of Python is required.
+- No previous programming experience needed.
 
 **Description**
 
@@ -52,9 +52,9 @@ We can develop different application in various field listed below:
 
 **Who this course is for:**
 
-Beginner Python developers curious about data science
-Anyone interested in Python programming
-Programmers switching languages to Python.
+- Beginner Python developers curious about data science
+- Anyone interested in Python programming
+- Programmers switching languages to Python.
 
 ## **Video Courses**
 
