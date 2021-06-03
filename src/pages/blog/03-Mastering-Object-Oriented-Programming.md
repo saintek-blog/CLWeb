@@ -4,14 +4,14 @@ title: Mastering Object Oriented Programming in Python
 date: 2021-06-02T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
-featuredimage: /img/python-basic.png
+featuredimage: /img/python-object-oriented-programming-oop.jpg
 tags:
   - Programming
   - Python
   - Computer Language
   - Beginner
 ---
-![](/img/python-basic.png)
+![](/img/python-object-oriented-programming-oop.jpg)
 
 *Python 2021 – Mastering Object Oriented Programming — Udemy — Last updated 6/2021*
 
@@ -19,14 +19,14 @@ tags:
 
 **What you’ll learn**
 
-- Python Programming Language.
-- Jupyter Notebook.
-- Procedural and Object Oriented Paradigms
+* Python Programming Language.
+* Jupyter Notebook.
+* Procedural and Object Oriented Paradigms
 
 **Requirements**
 
-- You don’t need any prior knowledge in Python programming or programming in general. All you need is a computer with internet connection.
-- Your operating system shouldn’t matter either. I am using a Windows 10 computer, however Anaconda distribution we will be using in this course has Mac OS and Linux versions as well.
+* You don’t need any prior knowledge in Python programming or programming in general. All you need is a computer with internet connection.
+* Your operating system shouldn’t matter either. I am using a Windows 10 computer, however Anaconda distribution we will be using in this course has Mac OS and Linux versions as well.
 
 **Description**
 
@@ -59,4 +59,6 @@ Anyone who wants to learn Python from scratch, or current Python programmers who
 **[Part 56](https://www.fembed.com/v/nd7qkf2xn7xy2m0)   | [Part 57](https://www.fembed.com/v/kwnkrc31xmq8j33)**
 
 *Note: Part 10, Part 21, Part 25, Part 37, Part 43, Part 52, and Part 55 are attachments, You can download it with this link below!*
-Link: [https://shrinke.me/AvpeQRL](https://shrinke.me/AvpeQRL)
+
+
+Link: <https://shrinke.me/AvpeQRL>
