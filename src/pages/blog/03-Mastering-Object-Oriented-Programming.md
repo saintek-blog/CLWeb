@@ -8,8 +8,10 @@ featuredimage: /img/python-object-oriented-programming-oop.jpg
 tags:
   - Programming
   - Python
+  - Object Oriented Programming
   - Computer Language
   - Beginner
+  - Intermediate
 ---
 ![](/img/python-object-oriented-programming-oop.jpg)
 
