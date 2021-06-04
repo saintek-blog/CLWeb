@@ -77,16 +77,6 @@ This course will take you from a beginner to a more experienced level. You will 
 * People who are willing to make a career in the Web Development
 * People who want to learn Django
 
-## **Video Courses**
+## **Start Courses**
 
-**[Part 1](https://www.fembed.com/v/5zyw5cdxlm3y5l6)   | [Part 2](https://www.fembed.com/v/2d1qyf2jmw45yp3)   | [Part 3](https://www.fembed.com/v/-87pgbpl8jnjxwd)   | [Part 4](https://www.fembed.com/v/5zyw5cdxlm11jw3)   | [Part 5](https://www.fembed.com/v/031znaln3z1w-0x)   | [Part 6](https://www.fembed.com/v/nd7qkf2xn0w2j6-)   | [Part 7](https://www.fembed.com/v/5zyw5cdxlm53ez1)   | [Part 8](https://www.fembed.com/v/gle06f-p58n12pr)   | [Part 9](https://www.fembed.com/v/7lyx5fg61pmgldg)   | [Part 10](https://www.fembed.com/v/zd-jyfjkq481p1n)**
-
-**[Part 11](https://www.fembed.com/v/ez073c-4m7dmpql)   | [Part 12](https://www.fembed.com/v/16nm8fjz74gx4jp)   | [Part 13](https://www.fembed.com/v/m62m1f5lgwy8d7k)   | [Part 14](https://www.fembed.com/v/7lyx5fg61p4z7em)   | [Part 15](https://www.fembed.com/v/8ywx5a8741-zlyq)   | [Part 16](https://www.fembed.com/v/16nm8fjz74ym7me)   | [Part 17](https://www.fembed.com/v/x30j-a5p7jzeyyg)   | [Part 18](https://www.fembed.com/v/wwdj-cnry304kww)   | [Part 19](https://www.fembed.com/v/7lyx5fg61p2j-0l)   | [Part 20](https://www.fembed.com/v/6qmxyf0427jlxnn)**
-
-**[Part 21](https://www.fembed.com/v/zd-jyfjkq08m724)   | [Part 22](https://www.fembed.com/v/8ywx5a8743gn7l4)   | [Part 23](https://www.fembed.com/v/16nm8fjz7l03p2x)   | [Part 24](https://www.fembed.com/v/p1rl-hmy6znlrj6)   | [Part 25](https://www.fembed.com/v/jnw10id5y87l2qg)   | [Part 26](https://www.fembed.com/v/7lyx5fg6104gr45)   | [Part 27](https://www.fembed.com/v/zd-jyfjkq07g4gg)   | [Part 28](https://www.fembed.com/v/qzrj-ce37rdy-1q)   | [Part 29](https://www.fembed.com/v/rqdj-fe4n51e6-4)   | [Part 30](https://www.fembed.com/v/gle06f-p531ejz5)**
-
-**[Part 31](https://www.fembed.com/v/zd-jyfjkq0mqzg7)   | [Part 32](https://www.fembed.com/v/2d1qyf2jmz84ml1)   | [Part 33](https://www.fembed.com/v/m62m1f5lgdr70x2)   | [Part 34](https://www.fembed.com/v/gle06f-p53r6rx4)   | [Part 35](https://www.fembed.com/v/8ywx5a8743np3zw)   | [Part 36](https://www.fembed.com/v/8ywx5a8743ny3n4)   | [Part 37](https://www.fembed.com/v/qzrj-ce37r250zp)   | [Part 38](https://www.fembed.com/v/wwdj-cnrykwe-l6)   | [Part 39](https://www.fembed.com/v/ez073c-4mpwpe-z)   | [Part 40](https://www.fembed.com/v/-87pgbpl8n42zjz)**
-
-**[Part 41](https://www.fembed.com/v/d1q6ghxdzg42-lj)   | [Part 42](https://www.fembed.com/v/zd-jyfjkq0e8kwd)   | [Part 43](https://www.fembed.com/v/41rl5hz7q14pqm0)   | [Part 44](https://www.fembed.com/v/6qmxyf042y6g4e3)   | [Part 45](https://www.fembed.com/v/zd-jyfjkq0n-m35)   | [Part 46](https://www.fembed.com/v/jnw10id5y81jy66)   | [Part 47](https://www.fembed.com/v/-87pgbpl8nwlyqw)   | [Part 48](https://www.fembed.com/v/ez073c-4mpe4q30)   | [Part 49](https://www.fembed.com/v/7lyx5fg610d10p3)   | [Part 50](https://www.fembed.com/v/rqdj-fe4n5pr0wl)**
-
-**[Part 51](https://www.fembed.com/v/ez073c-4mpq672z)   | [Part 52](https://www.fembed.com/v/rqdj-fe4n5ep3x-)   | [Part 53](https://www.fembed.com/v/ez073c-4mp1jz5d)   | [Part 54](https://www.fembed.com/v/41rl5hz7q1zyxyn)   | [Part 55](https://www.fembed.com/v/16nm8fjz7lrdje5)   | [Part 56](https://www.fembed.com/v/nd7qkf2xn87wel3)   | [Part 57](https://www.fembed.com/v/y6mj8fe18lq1e46)   | [Part 58](https://www.fembed.com/v/7lyx5fg6103jerm)   | [Part 59](https://www.fembed.com/v/2d1qyf2jmz1q7zw)   | [Part 60](https://www.fembed.com/v/rqdj-fe4n5rk-g7)**
+**[Click here to watch videos](https://www.fembed.com/p/gle06f-p5373ed8)**

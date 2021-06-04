@@ -56,6 +56,6 @@ We can develop different application in various field listed below:
 - Anyone interested in Python programming
 - Programmers switching languages to Python.
 
-## **Video Courses**
+## **Start Courses**
 
-**[Playlist](https://www.fembed.com/p/8ywx5a8745ldgme)**
+**[Click here to watch videos](https://www.fembed.com/p/8ywx5a8745ldgme)**
