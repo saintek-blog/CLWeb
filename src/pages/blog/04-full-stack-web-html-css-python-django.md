@@ -13,6 +13,7 @@ tags:
   - Django
   - Full Stack
   - CSS
+  - Intermediate
   - HTML
   - Web Development
 ---
@@ -77,6 +78,6 @@ This course will take you from a beginner to a more experienced level. You will 
 * People who are willing to make a career in the Web Development
 * People who want to learn Django
 
-## **Start Courses**
+## **Start Course**
 
-**[Click here to watch videos](https://www.fembed.com/p/gle06f-p5373ed8)**
+**[>> Click here to watch videos <<](https://www.fembed.com/p/gle06f-p5373ed8)**

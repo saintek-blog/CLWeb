@@ -46,8 +46,8 @@ Let’s start learning and mastering Object Oriented Python.
 
 Anyone who wants to learn Python from scratch, or current Python programmers who want to polish their knowledge and skills.
 
-## **Start Courses**
+## **Start Course**
 
-**[Click here to watch videos](https://femax20.com/p/wwdj-cnrykee516)**
+**[>> Click here to watch videos <<](https://femax20.com/p/wwdj-cnrykee516)**
 
-**[Click here to download the attachments](https://shrinke.me/AvpeQRL)**
+**[>> Click here to download the attachments <<](https://shrinke.me/AvpeQRL)**
