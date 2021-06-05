@@ -1,12 +1,18 @@
 ---
 templateKey: about-page
 path: /about
-title: Tentang Kami
+title: About Us
 ---
-KabarSainTek adalah situs internet yang menyediakan informasi terbaru seputar sains, teknologi dan bisnis. KabarSainTek meliput informasi dari berbagai sumber informasi yang kredibel dan terpercaya.
+Code Learning is an e-learning website and application that provides free video courses and e-books to help people who want to learn everything related computer especially in programming and web development.
 
-KabarSainTek dibangun dengan tujuan untuk menyediakan informasi yang termutakhir, terpercaya, serta berkualitas sehingga diharapkan informasi yang disediakan dalam webisite ini dapat memperluas wawasan serta menginspirasi para pembacanya.
+Many people out there who want to learn computer science but are constrained by the high price of books and online courses available, therefore Code Learning tries to provide a solution by providing video courses and e-books for free on condition that they are used fairly and only for educational purposes.
 
-### Hubungi Kami
+### Download our app
 
-Jika Anda memiliki pertanyaan, masukan dan hal-hal lain yang ingin disampaikan kepada pihak KabarSainTek, silakan kirimkan email anda ke alamat courseit3@gmail.com
+We have provided an application that will help you more easily access this site, besides that you can also access video courses and e-books directly just by using the application. For now the application only supports android devices and is not yet available on Google Play Store, but you can download it by click this link below:
+
+**[>> Download <<](https://shrinke.me/MOiPt)**
+
+### Contact Us
+
+If you have any questions, requests, or feedback, feel free to contact us via --> courseit3@gmail.com

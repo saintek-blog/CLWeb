@@ -9,8 +9,8 @@ tags:
   - Programming
   - C++
   - Computer Language
-  - Beginner
   - Intermediate
+  - Advance
 ---
 ![](/img/solidcpp.png)
 
