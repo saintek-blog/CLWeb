@@ -4,7 +4,7 @@ title: "Build Flutter AR and AI Face Filters App like Snapchat Filters"
 date: 2021-06-07T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
-featuredimage: /img/snpchat.jpg
+featuredimage: /img/snpchat.png
 tags:
   - Programming
   - Dart
@@ -16,7 +16,7 @@ tags:
   - Beginner
   - Intermediate
 ---
-![](/img/snpchat.jpg)
+![](/img/snpchat.png)
 
 *Build Flutter AR & AI Face Filters App like Snapchat Filters — Udemy — Last updated, 6/2021*
 
