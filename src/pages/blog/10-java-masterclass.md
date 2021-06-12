@@ -58,3 +58,5 @@ You literally can’t lose.
 ## **Start Course**
 
 **[>> Click here to watch videos <<](https://www.fembed.com/p/8ywx5a873kn-yz6)**
+
+**[>> Click here to download the attachments <<](https://shrinke.me/AvpeQRL)**

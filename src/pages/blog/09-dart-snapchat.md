@@ -53,3 +53,5 @@ The Augmented reality is additive, overlaying digital content onto the real worl
 ## **Start Course**
 
 **[>> Click here to watch videos <<](https://www.fembed.com/p/3rq5xam8nz37ql1)**
+
+**[>> Click here to download the attachments <<](https://shrinke.me/AvpeQRL)**
