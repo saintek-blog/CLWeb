@@ -7,7 +7,7 @@ featuredpost: true
 featuredimage: /img/cbeginner.png
 tags:
   - Programming
-  - Java
+  - C
   - Computer Language
   - Beginner
   - Intermediate

@@ -11,7 +11,13 @@ Many people out there who want to learn computer science but are constrained by 
 
 We have provided an application that will help you more easily access this site, besides that you can also access video courses and e-books directly just by using the application. For now the application only supports android devices and is not yet available on Google Play Store, but you can download it by click this link below:
 
+* For Android 10 (Q) and below:
+
 **[>> Download <<](https://shrinke.me/MOiPt)**
+
+* For Android 11 (R)
+
+**[>> Download <<](https://shrinke.me/YjTBh)**
 
 ### Contact Us
 
