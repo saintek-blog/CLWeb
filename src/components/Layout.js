@@ -72,11 +72,6 @@ const TemplateWrapper = ({ children }) => {
       <Navbar />
       <div>{children}</div>
       <Adsense currentPath={children} />
-      <div id='adnew'>
-		<span id='script_code'>
-			<!-- Bidvertiser2056540 -->
-		</span>
-  	  </div>
       <div id="SC_TBlock_852561"></div>
       <Adnow currentPath={children} />
       <Footer />
