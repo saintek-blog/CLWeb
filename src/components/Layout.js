@@ -11,17 +11,9 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
-    <div id="SC_TBlock_852559"></div>
       <Helmet>
         <html lang="en" />
         <script data-ad-client="ca-pub-7540836345366849" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <script type="text/javascript">
-			(sc_adv_out = window.sc_adv_out || []).push({
-    			id: 852559,
-    			domain: "n.ads5-adnow.com",
-			});
-		</script>
-		<script type="text/javascript" src="//st-n.ads5-adnow.com/js/a.js" async></script>
         <title>{title}</title>
         <meta name="description" content={description} />
         
@@ -78,6 +70,14 @@ const TemplateWrapper = ({ children }) => {
       <Navbar />
       <div>{children}</div>
       <Adsense currentPath={children} />
+      <div id="SC_TBlock_852559"></div>
+      <script type="text/javascript">(sc_adv_out = window.sc_adv_out || []).push
+        ({
+    		id: 852559,
+    		domain: "n.ads5-adnow.com",
+		});
+		</script>
+		<script type="text/javascript" src="//st-n.ads5-adnow.com/js/a.js" async></script>
       <Footer />
     </div>
   )
