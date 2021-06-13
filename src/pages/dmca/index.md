@@ -8,7 +8,7 @@ Code-Learning is in compliance with 17 U.S.C. § 512 and the Digital Millennium 
 The following elements must be included in your copyright infringement claim:
 * Provide evidence of the authorized person to act on behalf of the owner of an exclusive right that is allegedly infringed.
 * Provide sufficient contact information so that we may contact you. You must also include a valid email address.
-* You must identify in sufficient detail the copyrighted work claimed to have been infringed and including at least one search term under which the material appears in Courseupload.com’ search results.
+* You must identify in sufficient detail the copyrighted work claimed to have been infringed and including at least one search term under which the material appears in Code Learning search results.
 * A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 * A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 * Must be signed by the authorized person to act on behalf of the owner of an exclusive right that is allegedly being infringed.
