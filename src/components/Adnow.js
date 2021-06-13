@@ -17,9 +17,9 @@ const Ad = props => {
                 mr: 0,
         })}>
             <ins
-                id : "852561",
-                domain : "n.ads1-adnow.com",
-                no_div: false
+                id = "852561"
+                domain = "n.ads1-adnow.com"
+                no_div = false
             />
         </div>
     )
