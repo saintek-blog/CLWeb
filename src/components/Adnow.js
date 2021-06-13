@@ -6,7 +6,7 @@ const Ad = props => {
     const { currentPath } = props
 
     useEffect(() => {
-        window.sc_adv_out = window.sc_adv_out || [])
+        window.sc_adv_out = window.sc_adv_out || []
         window.sc_adv_out.push({})
     }, [currentPath])
 
