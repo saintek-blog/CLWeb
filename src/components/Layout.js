@@ -15,7 +15,6 @@ const TemplateWrapper = ({ children }) => {
       <Helmet>
         <html lang="en" />
         <script data-ad-client="ca-pub-7540836345366849" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <script async type="text/javascript" src="//st-n.ads1-adnow.com/js/a.js"></script>
         <title>{title}</title>
         <meta name="description" content={description} />
         
@@ -72,8 +71,6 @@ const TemplateWrapper = ({ children }) => {
       <Navbar />
       <div>{children}</div>
       <Adsense currentPath={children} />
-      <div id="SC_TBlock_852561"></div>
-      <Adnow currentPath={children} />
       <Footer />
     </div>
   )
