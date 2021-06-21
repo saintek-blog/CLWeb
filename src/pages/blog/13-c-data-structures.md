@@ -9,7 +9,7 @@ tags:
   - Programming
   - C
   - Computer Language
-  - Beginner
+  - Advanced
   - Intermediate
 ---
 ![](/img/cdatastructures.jpg)

@@ -10,6 +10,8 @@ tags:
   - Python
   - Computer Language
   - Beginner
+  - Object Oriented Programming
+  
 ---
 ![](/img/python-basic.png)
 
