@@ -74,6 +74,6 @@ This course does not use UML class diagrams; all of demos are live coding. I use
 
 ## **Start Course**
 
-**[>> Click here to watch videos <<](https://www.fembed.com/p/kwnkrc3gn7n2433)**
+**[>> Click here to watch videos <<](https://www.fembed.com/p/y6mj8fe3r6dmy4-)**
 
 **[>> Click here to download the attachments <<](https://shrinke.me/AvpeQRL)**
