@@ -4,7 +4,7 @@ title: "Build a Social Network in 20 Days from Scratch: PHP + MYSQL, Js"
 date: 2021-07-05T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
-featuredimage: /img/php-socmed.png
+featuredimage: /img/php_socmed.png
 tags:
   - Programming
   - PHP
@@ -16,7 +16,7 @@ tags:
   - Web Development
   - Object Oriented Programming
 ---
-![](/img/php-socmed.png)
+![](/img/php_socmed.png)
 
 *Build a Social Network in 20 Days from Scratch: PHP + MYSQL, Js — Udemy — Last updated, 7/2021*
 
