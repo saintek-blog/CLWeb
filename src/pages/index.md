@@ -2,8 +2,9 @@
 templateKey: index-page
 title: Welcome to Code Learning
 image: /img/wp2685758.jpg
-heading: " "
-subheading: The best website to learn programming, web development, and computer science.
+heading: " The best website to learn programming, web development, and computer
+  science."
+subheading: All You Need is to Learn and Practice
 mainpitch:
   title: " "
   description: " "
