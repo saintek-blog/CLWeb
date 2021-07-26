@@ -16,7 +16,7 @@ tags:
   - Computer Language
   - Beginner
   - Intermediate
-  - Expert
+  - Advanced
   - Object Oriented Programming
 ---
 ![](/img/screen-shot-2021-01-28-at-11.57.06-am.png)
@@ -43,9 +43,8 @@ In this course you will learn and make your own fully functional ride sharing ap
 
 This course has two apps:
 
-1) UBER Clone Users App
-
-2) UBER Clone Drivers App
+1. UBER Clone Users App
+2. UBER Clone Drivers App
 
 UBER Clone Users App is for the users to use while UBER Clone Drivers App is for the drivers to use. We will develop this complete project with firebase as backend with flutter dart.
 
