@@ -17,6 +17,7 @@ tags:
   - Advanced
   - Database
   - Web Development
+  - Full Stack
   - Object Oriented Programming
 ---
 ![](/img/screen-shot-2021-01-21-at-9.14.19-am.png)
@@ -45,7 +46,7 @@ Build a full-featured eCommerce app using React and serverless architecture.
 
 ## Description
 
-*\*\*\* The course is created in Typescript but it is definitely fine if you prefer Javascript \*\*\**
+\*\*\*\* The course is created in Typescript but it is definitely fine if you prefer Javascript \*\*\*\*
 
 Build a full-featured eCommerce application using React and serverless architecture (Firebase, Cloud Functions, Firestore, Storage, Authentication, Hosting).
 
@@ -75,7 +76,7 @@ Here are what the course will be covering.
 * Secure Firestore
 * How to deploy the app using Firebase Hosting
 
-*\*\*\* The course is created in Typescript but it is definitely fine if you prefer Javascript \*\*\**
+\*\*\*\* The course is created in Typescript but it is definitely fine if you prefer Javascript \*\*\*\*
 
 ## Who this course is for:
 
