@@ -4,7 +4,7 @@ title: Welcome to Code Learning
 image: /img/wp2685758.jpg
 heading: " The best website to learn programming, web development, and computer
   science."
-subheading: All You Need is to Learn and Practice
+subheading: All You Need is to Learn, Practice and Coffee.
 mainpitch:
   title: " "
   description: " "
