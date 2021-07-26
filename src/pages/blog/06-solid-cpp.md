@@ -10,7 +10,7 @@ tags:
   - C++
   - Computer Language
   - Intermediate
-  - Advance
+  - Advanced
   - Object Oriented Programming
 ---
 ![](/img/solidcpp.png)
