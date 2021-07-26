@@ -12,6 +12,7 @@ tags:
   - Beginner
   - Intermediate
   - Advanced
+  - Full Stack
   - Database
   - Web Development
   - Object Oriented Programming
