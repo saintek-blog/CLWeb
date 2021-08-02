@@ -8,7 +8,6 @@ featuredimage: /img/fullstack-booststrap-reactjs.png
 tags:
   - Programming
   - Javascript
-  - Computer Language
   - Beginner
   - Bootstrap
   - Full Stack
