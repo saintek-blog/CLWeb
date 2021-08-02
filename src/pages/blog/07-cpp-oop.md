@@ -8,7 +8,6 @@ featuredimage: /img/cppoop.png
 tags:
   - Programming
   - C++
-  - Computer Language
   - Beginner
   - Intermediate
   - Object Oriented Programming
