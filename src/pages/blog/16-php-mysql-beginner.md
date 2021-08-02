@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Getting Started with PHP & MySQL Development"
+title: Getting Started with PHP & MySQL Development
 date: 2021-06-16T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
@@ -8,7 +8,6 @@ featuredimage: /img/php-mysql.png
 tags:
   - Programming
   - PHP
-  - Computer Language
   - Beginner
   - Intermediate
   - Database
