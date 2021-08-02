@@ -9,7 +9,6 @@ featuredimage: /img/screen-shot-2021-03-15-at-11.01.48-am.png
 tags:
   - Programming
   - Python
-  - Computer Language
   - Intermediate
   - Object Oriented Programming
   - Advanced
