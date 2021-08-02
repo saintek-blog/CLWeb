@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Java Reactive Programming From Scratch"
+title: Java Reactive Programming From Scratch
 date: 2021-06-09T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
@@ -8,7 +8,6 @@ featuredimage: /img/java-reactive.png
 tags:
   - Programming
   - Java
-  - Computer Language
   - Beginner
   - Intermediate
   - Web Development
