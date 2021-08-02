@@ -13,7 +13,6 @@ tags:
   - Mobile Development
   - Android
   - iOS
-  - Computer Language
   - Beginner
   - Intermediate
   - Advanced
