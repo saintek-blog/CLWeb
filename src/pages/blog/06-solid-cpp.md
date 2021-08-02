@@ -8,7 +8,6 @@ featuredimage: /img/solidcpp.png
 tags:
   - Programming
   - C++
-  - Computer Language
   - Intermediate
   - Advanced
   - Object Oriented Programming
