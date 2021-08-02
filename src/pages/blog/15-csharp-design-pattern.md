@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Design Patterns in C# and .NET"
+title: Design Patterns in C# and .NET
 date: 2021-06-14T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
@@ -8,7 +8,6 @@ featuredimage: /img/csharp-designpattern.png
 tags:
   - Programming
   - C#
-  - Computer Language
   - Advanced
   - Intermediate
   - Object Oriented Programming
