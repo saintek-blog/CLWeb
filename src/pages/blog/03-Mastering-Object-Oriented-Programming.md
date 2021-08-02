@@ -9,7 +9,6 @@ tags:
   - Programming
   - Python
   - Object Oriented Programming
-  - Computer Language
   - Beginner
   - Intermediate
 ---
