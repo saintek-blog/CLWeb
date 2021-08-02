@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "The Complete C Programming Course for Beginners"
+title: The Complete C Programming Course for Beginners
 date: 2021-06-10T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
@@ -8,7 +8,6 @@ featuredimage: /img/cbeginner.png
 tags:
   - Programming
   - C
-  - Computer Language
   - Beginner
   - Intermediate
 ---
