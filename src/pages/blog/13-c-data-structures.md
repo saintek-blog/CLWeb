@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Data Structures and Algorithms In C"
+title: Data Structures and Algorithms In C
 date: 2021-06-11T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
@@ -8,7 +8,6 @@ featuredimage: /img/cdatastructures.jpg
 tags:
   - Programming
   - C
-  - Computer Language
   - Advanced
   - Intermediate
 ---
