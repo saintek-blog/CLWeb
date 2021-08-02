@@ -8,7 +8,6 @@ featuredimage: /img/java.png
 tags:
   - Programming
   - Java
-  - Computer Language
   - Beginner
   - Intermediate
   - Object Oriented Programming
