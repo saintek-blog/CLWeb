@@ -14,6 +14,7 @@ const TemplateWrapper = ({ children }) => {
       <Helmet>
         <html lang="en" />
         <script data-ad-client="ca-pub-7540836345366849" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
         <title>{title}</title>
         <meta name="description" content={description} />
         
@@ -66,6 +67,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
+	<amp-auto-ads type="adsense" data-ad-client="ca-pub-7540836345366849"> </amp-auto-ads>
       </Helmet>
       <Navbar />
       <div>{children}</div>
