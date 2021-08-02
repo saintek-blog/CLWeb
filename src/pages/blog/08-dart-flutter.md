@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Flutter & Dart – The Complete Guide [2021 Edition]"
+title: Flutter & Dart – The Complete Guide [2021 Edition]
 date: 2021-06-06T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
@@ -12,7 +12,6 @@ tags:
   - Mobile Development
   - Android
   - iOS
-  - Computer Language
   - Beginner
   - Intermediate
   - Object Oriented Programming
