@@ -8,7 +8,6 @@ featuredimage: /img/php_socmed.png
 tags:
   - Programming
   - PHP
-  - Computer Language
   - Beginner
   - Intermediate
   - Advanced
