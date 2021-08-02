@@ -8,7 +8,6 @@ featuredimage: /img/1_YOp4dWRPoapPW-ZNV7IXyQ.jpeg
 tags:
   - Programming
   - Python
-  - Computer Language
   - Beginner
   - Django
   - Full Stack
