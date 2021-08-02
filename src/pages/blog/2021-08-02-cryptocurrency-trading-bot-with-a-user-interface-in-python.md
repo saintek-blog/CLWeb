@@ -13,6 +13,8 @@ tags:
   - Intermediate
   - Object Oriented Programming
   - Advanced
+  - Artificial Intelligence
+  - Machine Learning
 ---
 ![](/img/screen-shot-2021-03-15-at-11.01.48-am.png)
 
