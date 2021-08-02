@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Build Flutter AR and AI Face Filters App like Snapchat Filters"
+title: Build Flutter AR and AI Face Filters App like Snapchat Filters
 date: 2021-06-07T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
@@ -16,6 +16,8 @@ tags:
   - Beginner
   - Intermediate
   - Object Oriented Programming
+  - Artificial Intelligence
+  - Machine Learning
 ---
 ![](/img/snpchat.png)
 
