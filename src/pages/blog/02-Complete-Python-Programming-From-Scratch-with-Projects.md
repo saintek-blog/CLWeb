@@ -8,10 +8,8 @@ featuredimage: /img/python-basic.png
 tags:
   - Programming
   - Python
-  - Computer Language
   - Beginner
   - Object Oriented Programming
-  
 ---
 ![](/img/python-basic.png)
 
