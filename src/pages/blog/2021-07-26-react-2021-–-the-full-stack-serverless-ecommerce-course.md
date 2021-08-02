@@ -11,7 +11,6 @@ tags:
   - React
   - Typescript
   - Javascript
-  - Computer Language
   - Beginner
   - Intermediate
   - Advanced
