@@ -12,7 +12,6 @@ tags:
   - Mobile Development
   - Android
   - iOS
-  - Computer Language
   - Beginner
   - Intermediate
   - Object Oriented Programming
