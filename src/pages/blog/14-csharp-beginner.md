@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "C# Basics for Beginners – Learn C# Fundamentals by Coding"
+title: C# Basics for Beginners – Learn C# Fundamentals by Coding
 date: 2021-06-12T06:28:42.093Z
 description: By Noobcoder95
 featuredpost: true
@@ -8,7 +8,6 @@ featuredimage: /img/csharp-beginner.png
 tags:
   - Programming
   - C#
-  - Computer Language
   - Beginner
   - Intermediate
   - Object Oriented Programming
