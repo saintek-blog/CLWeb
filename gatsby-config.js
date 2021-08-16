@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Code Learning',
+    title: 'SourceUnleashed',
     description:
       'Free video courses related to programming, web development and computer science.',
   },
