@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Welcome to Code Learning
+title: Welcome to SourceUnleashed
 image: /img/wp2685758.jpg
 heading: " The best website to learn programming, web development, and computer
   science."
