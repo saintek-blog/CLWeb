@@ -17,8 +17,6 @@ tags:
 ---
 ![](/img/screen-shot-2020-11-11-at-9.28.35-am.png)
 
-
-
 Do you intend to learn or want to run online learning management platform business, then this is the best course for you
 
 ## What you’ll learn
