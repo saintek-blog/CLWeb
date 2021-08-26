@@ -59,8 +59,6 @@ Do you intend to learn or want to run online learning management platform busine
 
 **If you are still with me lets continue**
 
-[![](https://s3.eu-central-1.wasabisys.com/courseupload/2021/08/8muses.png)](https://urlchill.com/W94J9)
-
 Building dynamic websites is not an easy challenge and requires time and effort dedicated to coding every bit and piece of the website, which is why anytime there is a new tool that promises to ease the woes of coding, developers always jump at the chance to try it.
 
 PHP Framework (CodeIgniter) is a simple open-source framework that makes it the coding tasks easier by providing a faster way to set up a PHP website from the ground-up. This tool with a small framework ensures that developers can design websites that are light, fast and dynamic.
