@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: JavaScript For Absolute Beginners
 date: 2021-08-31T03:00:30.059Z
-description: JavaScript For Absolute Beginners — Udemy — Last updated 12/2020
+description: JavaScript For Absolute Beginners — Udemy — Last updated 09/2021
 featuredpost: true
 featuredimage: /img/screen-shot-2021-03-17-at-2.46.33-pm.png
 tags:
